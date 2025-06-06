@@ -17,3 +17,11 @@ Concern: Can be unnecessary bloat if you didn’t install it yourself and prefer
 Unhook – Remove YouTube Recommended, Shorts, Comments:
 Description: Hides YouTube distractions like recommended videos, comments, and homepage suggestions to help users focus.
 Trust Level: ✅ Safe and useful — popular among productivity-focused users.
+
+
+REMOVED:
+Microsoft Bing Search for Chrome as I use Google very often.
+
+Also showed the function of Unhook Extension.
+
+AdsSecured was not removed as it helps me for securing through Ads.
