@@ -1,0 +1,30 @@
+Extensions Review
+AdsSecured
+
+Function: Claims to remove ads and tracking scripts.
+
+Risk: Could be suspicious if not installed knowingly; many fake ad blockers exist.
+
+✅ Action: Check if you installed it yourself. If not, remove it.
+
+Google Docs Offline
+
+Function: Official Google extension for offline access to Docs/Sheets.
+
+✅ Safe and useful if you use Google Docs.
+
+Microsoft Bing Search for Chrome
+
+Function: Changes default search engine to Bing.
+
+⚠️ Unnecessary if you didn’t add it yourself. Can be bundled with other software.
+
+✅ Action: Remove it if you prefer Google.
+
+Unhook – Remove YouTube Recommended
+
+Function: Hides YouTube distractions.
+
+✅ Safe and productivity-focused.
+
+Optional: Remove if not actively using it.
